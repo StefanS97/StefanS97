@@ -21,7 +21,7 @@ I design and build scalable web platforms with clean architecture, strong UX, an
 ---
 
 ## Experience Snapshot
-- **Involve (Olion)** · Jan 2022 – May 2025 · *Contractor Jun 2025 – Present*  
+- **Involve (Olion)** · Jan 2022 – April 2025 · *Contractor May 2025 – Present*  
   Laravel services + **Kotlin microservices**, React/Vue front‑ends, MySQL performance, **Elasticsearch**, Docker/K8s, third‑party integrations.
 - **Global Optimum** · May 2021 – Present  
   Laravel + React delivery, Livewire components, DB modeling, CI/CD.
