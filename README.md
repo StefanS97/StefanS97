@@ -1,46 +1,36 @@
 # Hi, I'm Stefan Stojkov
-**Senior Full‑Stack Software Engineer** · Laravel • React • Vue • Kotlin microservices • SQL/NoSQL • Docker/Kubernetes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fstf997-0A66C2?logo=linkedin)](https://www.linkedin.com/in/stf997)
-[![GitHub](https://img.shields.io/badge/GitHub-StefanS97-181717?logo=github)](https://github.com/StefanS97)
-[![Email](https://img.shields.io/badge/Email-stefan.stojkov97%40gmail.com-D14836?logo=gmail)](mailto:stefan.stojkov97@gmail.com)
-![Location](https://img.shields.io/badge/Location-North%20Macedonia-6aa84f)
+**Senior Full-Stack Software Engineer** · Laravel · React · TypeScript · PostgreSQL · AI-powered applications
 
-I design and build scalable web platforms with clean architecture, strong UX, and measurable performance improvements. Experience across enterprise and startup environments, owning features end‑to‑end: discovery → architecture → implementation → CI/CD → monitoring.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stf997-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stf997)
+[![Email](https://img.shields.io/badge/Email-stefan.stojkov97%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:stefan.stojkov97@gmail.com)
+![Location](https://img.shields.io/badge/Location-Bitola%2C%20North%20Macedonia-2EA44F)
 
----
+I design and build complete systems (architecture, data modeling, APIs, frontend, deployment and maintenance) for SaaS platforms, multi-tenant systems and enterprise B2B products. 5+ years of professional experience across 20+ projects, owning products end to end as a sole engineer and working inside larger teams.
 
-## Core Skills
-- **Backend:** PHP, **Laravel**, Livewire, Node.js, Django, Flask
-- **Frontend:** **React**, **Vue**, TypeScript/JavaScript, Tailwind, MUI
-- **Data:** **MySQL**, **PostgreSQL**, MongoDB, **Elasticsearch**
-- **Architecture:** REST APIs, microservices, event-driven systems, caching, multi‑tenant design
-- **DevOps:** **Docker**, **Kubernetes**, GitHub Actions/CI, testing, observability
-- **Other:** Payments & messaging integrations, secure auth, performance tuning
+## What I focus on
+- Multi-tenant SaaS architecture and modular monoliths
+- Scalable backends: queues, caching, search (Meilisearch / Elasticsearch), PostgreSQL with PostGIS and pgvector
+- AI-powered features: LLM integrations, semantic search, OCR and computer vision, AI-assisted workflows
+- Rich, interactive frontends with React, TypeScript and MUI
+- Cloud deployment and DevOps: Docker, CI/CD, Hetzner, Cloudflare
+- Architecture reviews, technical consulting and mentoring developers
 
----
+## Tech stack
+- **Backend:** PHP, Laravel, Filament, Inertia.js, Python, Django, Kotlin, Java
+- **Frontend:** React, TypeScript, JavaScript, MUI, Tailwind, React Native
+- **Data:** PostgreSQL (PostGIS, pgvector), MySQL, MongoDB, Meilisearch, Elasticsearch
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Hetzner Cloud, Cloudflare
+- **AI:** LLM integrations, Claude / MCP, semantic search, OCR
 
-## Experience Snapshot
-- **Involve (Olion)** · Jan 2022 – April 2025 · *Contractor May 2025 – Present*  
-  Laravel services + **Kotlin microservices**, React/Vue front‑ends, MySQL performance, **Elasticsearch**, Docker/K8s, third‑party integrations.
-- **Global Optimum** · May 2021 – Present  
-  Laravel + React delivery, Livewire components, DB modeling, CI/CD.
-- **Karpa of Europe** · Aug 2021 – Jan 2022  
-  AngularJS, Node/Sails microservices, UI modernization.
+## Experience
+- **Global Way RS** · Senior Full-Stack Software Engineer · May 2021 – present (remote)
+- **Involve** · Full-Stack Software Engineer · Jan 2022 – May 2025
+- **Карпа на Европа** · Software Engineer · Aug 2021 – Jan 2022
 
----
-
-
-## What I'm Working On
-- Performance‑first Laravel services with clean domain boundaries
-- React + MUI design system components
-- Microservice patterns with Kotlin + message brokers
-- Private Python automations and small Django/Flask backends for training
+## Education
+- **MSc Software Engineering** · Faculty of Information and Communication Technologies, Bitola (in progress)
 
 ---
 
-## Get in touch
-- **LinkedIn:** https://www.linkedin.com/in/stf997  
-- **Email:** stefan.stojkov97@gmail.com  
-
----
+Most of my work lives in private client repositories, so my contribution graph shows activity without repository details.
